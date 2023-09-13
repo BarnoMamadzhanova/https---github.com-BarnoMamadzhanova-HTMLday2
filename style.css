@@ -1,0 +1,48 @@
+* {
+    background-color: azure;
+}
+.welcome h1 {
+    color: darkturquoise;
+    font-family: sans-serif;
+}
+.pages li {
+    font-family: sans-serif;
+    color: blanchedalmond;
+}
+#figure {
+    font-family: sans-serif;
+    color: darkturquoise;
+    width: 1000px;
+    height: 300px;
+}
+#second {
+    font-family: sans-serif;
+    color: darkturquoise;
+}
+.form {
+    font-family: sans-serif;
+    color: darkseagreen;
+}
+.pasta {
+    font-family: sans-serif;
+    color: cadetblue;
+    text-align: left;
+}
+#pastafoto {
+    width: 300px;
+    height: 300px;
+    border-radius: 0,5;
+}
+#informationaboutpasta {
+    font-family: sans-serif;
+    color: cadetblue;
+    text-align: right;
+}
+#pastatypes {
+    font-family: sans-serif;
+    color: cadetblue;
+}
+.pastavarieties {
+    width: 200px;
+    height: 200px;
+}
