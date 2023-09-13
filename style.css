@@ -12,9 +12,8 @@
 #figure {
     font-family: sans-serif;
     color: darkturquoise;
-    width: 1000px;
-    height: 300px;
 }
+
 #second {
     font-family: sans-serif;
     color: darkturquoise;
@@ -28,11 +27,7 @@
     color: cadetblue;
     text-align: left;
 }
-#pastafoto {
-    width: 300px;
-    height: 300px;
-    border-radius: 0,5;
-}
+
 #informationaboutpasta {
     font-family: sans-serif;
     color: cadetblue;
@@ -42,7 +37,13 @@
     font-family: sans-serif;
     color: cadetblue;
 }
-.pastavarieties {
-    width: 200px;
-    height: 200px;
+
+#figure img,
+#pastafoto img,
+.pastavarieties img {
+   width: 100%;
+}
+
+.current-page{
+    color: darkgrey;
 }
